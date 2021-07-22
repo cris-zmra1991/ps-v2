@@ -80,13 +80,13 @@
                                 <a href="#"><i class="fa fa-user-o fa-fw"></i>&nbsp;&nbsp;Gestión de usuarios<span class="fa arrow"></span></a>
                                 <ul class="nav nav-second-level">
                                     <li>
-                                        <a href="../usr_mgn/solic_page.php">Revisar solicitudes</a>
+                                        <a href="../usrmgn/solic_page.php">Revisar solicitudes</a>
                                     </li>
                                     <li>
-                                        <a href="../usr_mgn/update_page.php">Modificación de usuarios</a>
+                                        <a href="../usrmgn/update_page.php">Modificación de usuarios</a>
                                     </li>
                                     <li>
-                                        <a href="morris.html">Eliminación de usuarios</a>
+                                        <a href="#">Eliminación de usuarios</a>
                                     </li>
                                 </ul>
                                 <!-- /.nav-second-level -->
