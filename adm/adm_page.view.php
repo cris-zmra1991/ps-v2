@@ -36,6 +36,9 @@
                 </button>
 
                 <ul class="nav navbar-right navbar-top-links">
+                    <li class="dropdown">
+                      <?php echo $comp; ?>
+                    </li>
 
                     <li class="dropdown">
                         <a class="dropdown-toggle" data-toggle="dropdown" href="#">
@@ -70,7 +73,7 @@
                                 <!-- /input-group -->
                             </li>
                             <li>
-                                <a  class="active" href="index.html"><i class="fa fa-dashboard fa-fw"></i>&nbsp;&nbsp;Dashboard</a>
+                                <a  class="active" href="#"><i class="fa fa-dashboard fa-fw"></i>&nbsp;&nbsp;Dashboard</a>
                             </li>
 
                             <li>
