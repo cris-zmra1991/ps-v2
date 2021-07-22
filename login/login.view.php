@@ -29,7 +29,7 @@
                         </div>
                         </div>
                         <div class="panel-body">
-                            <form role="form">
+                            <form action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="post">
                                 <fieldset>
                                   <div class="input-group mb-3">
                                     <span class="input-group-text">&nbsp;<i class="fa fa-user fa-2x"></i>&nbsp;</span>
