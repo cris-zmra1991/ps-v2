@@ -48,7 +48,7 @@
                                       endforeach; ?>
                                   </select>
                               </div>
-                                <div> Para solicitar una nueva cuenta <a href="register.php">Clic aquí</a></div>
+                                <div class="text-center"> Para solicitar una nueva cuenta <a href="register.php">Clic aquí</a></div>
                                 <br>
                                     <!-- Change this to a button or input when using this as a form -->
                                     <button type="submit" class="btn btn-lg btn-success btn-block">Login</button>

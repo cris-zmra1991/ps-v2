@@ -10,7 +10,7 @@ if (isset($_SESSION['usuario'])) {
   $usuario = iniciarSession('users', $conexion);
 
   if ($usuario['user_type'] == '3') {
-    header('Location: ../adm_panel/adm_page.php');
+    header('Location: '.RUTA.'adm/adm_page.php');
     //hay que crear uno para cada tipo de usuario -- que serian prod, tecnicos y pruebas
   } elseif ($usuario['user_type'] == '1') {
     header('Location: ../admin/user_without_access.php');
