@@ -51,7 +51,7 @@
                                 <div> Para solicitar una nueva cuenta <a href="register.php">Clic aquí</a></div>
                                 <br>
                                     <!-- Change this to a button or input when using this as a form -->
-                                    <a href="index.html" class="btn btn-lg btn-success btn-block">Login</a>
+                                    <button type="submit" class="btn btn-lg btn-success btn-block">Login</button>
                                     <br>
                                     <!-- BEGIN error box -->
                                         <?php echo $errores; ?>
