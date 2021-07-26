@@ -70,7 +70,7 @@
                                 <!-- /input-group -->
                             </li>
                             <li>
-                                <a href="../adm_panel/adm_page.php"><i class="fa fa-dashboard fa-fw"></i>&nbsp;&nbsp;Dashboard</a>
+                                <a href="../adm/adm_page.php"><i class="fa fa-dashboard fa-fw"></i>&nbsp;&nbsp;Dashboard</a>
                             </li>
 
                             <li>
@@ -82,9 +82,7 @@
                                     <li>
                                         <a class="active" href="#">Modificación de usuarios</a>
                                     </li>
-                                    <li>
-                                        <a href="morris.html">Eliminación de usuarios</a>
-                                    </li>
+                                
                                 </ul>
                                 <!-- /.nav-second-level -->
                             </li>
@@ -159,7 +157,7 @@
                     <br>
                     <!-- /.row -->
                     <div class="row">
-                        <div class="col-lg-12"> 
+                        <div class="col-lg-12">
                           <table class="table d-block m-3">
                       			<thead>
                       				<tr>

@@ -59,7 +59,7 @@
                 <div class="navbar-default sidebar" role="navigation">
                     <div class="sidebar-nav navbar-collapse">
                         <ul class="nav" id="side-menu">
-                            <div class="company text-center"><h6><?php echo $comp; ?></h6></div>
+                        
                             <li class="sidebar-search">
                                 <div class="input-group custom-search-form">
                                     <input type="text" class="form-control" placeholder="Search...">
@@ -85,9 +85,7 @@
                                     <li>
                                         <a href="../usrmgn/update_page.php">Modificación de usuarios</a>
                                     </li>
-                                    <li>
-                                        <a href="#">Eliminación de usuarios</a>
-                                    </li>
+
                                 </ul>
                                 <!-- /.nav-second-level -->
                             </li>
